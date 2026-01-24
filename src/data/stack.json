@@ -1,0 +1,15 @@
+[
+  { "name": "HTML/CSS", "icon": "web" },
+  { "name": "Javascript", "icon": "code" },
+  { "name": "Jquery", "icon": "dynamic_form" },
+  { "name": "PHP", "icon": "terminal" },
+  { "name": "Laravel", "icon": "layers" },
+  { "name": "MySql", "icon": "database" },
+  { "name": "GIT", "icon": "history" },
+  { "name": "React", "icon": "javascript" },
+  { "name": "VS Code", "icon": "edit_document" },
+  { "name": "Docker", "icon": "api" },
+  { "name": "Jenkins", "icon": "sync" },
+  { "name": "Shopify", "icon": "shopping_bag" },
+  { "name": "Postman", "icon": "api" }
+]

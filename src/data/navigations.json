@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Home",
+    "href": "#hero",
+    "icon": "home",
+    "is_hidden": false
+  },
+  {
+    "name": "Projects",
+    "href": "#featured",
+    "icon": "folder_open",
+    "is_hidden": false
+  },
+  {
+    "name": "Stack",
+    "href": "#tech-stack",
+    "icon": "layers",
+    "is_hidden": false
+  },
+  {
+    "name": "History",
+    "href": "#past",
+    "icon": "history",
+    "is_hidden": false
+  },
+  {
+    "name": "Resume",
+    "href": "#",
+    "icon": "description",
+    "is_hidden": true,
+    "is_external": true
+  }
+]

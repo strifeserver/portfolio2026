@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+.sidebar-active {
+  border-right: 2px solid #6C2EB9;
+  background: rgba(108, 46, 185, 0.1);
+}
+
+.code-line::before {
+  content: attr(data-line);
+  margin-right: 1.5rem;
+  opacity: 0.3;
+  font-size: 0.8rem;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #242436;
+  border-radius: 10px;
+}
+
+.cursor-blink {
+  display: inline-block;
+  width: 8px;
+  height: 1.2em;
+  background-color: #6C2EB9;
+  vertical-align: middle;
+  margin-left: 4px;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+
+  from,
+  to {
+    background-color: transparent
+  }
+
+  50% {
+    background-color: #6C2EB9
+  }
+}
+
+.necro-text-glow {
+  text-shadow: 0 0 15px rgba(169, 112, 255, 0.4);
+}
+
+.contribution-cell {
+  aspect-ratio: 1/1;
+  width: 100%;
+  border-radius: 2px;
+}
+
+.timeline-line::before {
+  content: '';
+  position: absolute;
+  left: 7px;
+  top: 24px;
+  bottom: -24px;
+  width: 2px;
+  background-color: #242436;
+}
+
+.timeline-item:last-child .timeline-line::before {
+  display: none;
+}

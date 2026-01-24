@@ -1,0 +1,160 @@
+{
+  "featured": [
+    {
+      "title": "Suzuki Service Campaign",
+      "description": "Customer safety-focused service campaign platform ensuring Suzuki vehicles meet the highest quality and safety standards.",
+      "image": "/images/projects/suzuki-service-campaign.jpg",
+      "tags": ["React", "Laravel", "PHP"],
+      "link": "#",
+      "role": "Backend Developer",
+      "contributions": [
+        "Developed Laravel API backend using a modular architecture",
+        "Implemented reusable CRUD patterns to significantly reduce development and production time",
+        "Provided React frontend support when the team required additional resources"
+      ]
+    },
+    {
+      "title": "Wacoal Shopify",
+      "description": "E-commerce storefront and content-driven shopping experience built on Shopify, featuring custom Liquid templates and backend integrations.",
+      "image": "/images/projects/wacoal-shopify.jpg",
+      "tags": [
+        "Shopify",
+        "Laravel",
+        "JavaScript",
+        "Liquid",
+        "Ecommerce",
+        "Singapore",
+        "Hong Kong",
+        "Vietnam",
+        "Philippines"
+      ],
+      "link": "#",
+      "role": "Shopify / Backend Developer",
+      "contributions": [
+        "Implemented frontend features using HTML and JavaScript",
+        "Worked with Shopify Flow, webhooks, and custom Shopify app logic",
+        "Developed Laravel middleware and API integrations for branch- and country-specific requirements"
+      ]
+    }
+  ],
+  "personal": [
+    {
+      "title": "Shopify Token Generator",
+      "description": "A personal utility tool created to streamline Shopify app setup after platform changes removed easy access to access tokens.",
+      "year": "2026",
+      "image": "/images/projects/shopify-token-generator.jpg",
+      "tags": ["Personal", "Python"],
+      "role": "Developer",
+      "contributions": [
+        "Built a token generation utility to adapt to Shopify platform changes introduced in January 2026",
+        "Designed the tool to improve development efficiency during Shopify app setup",
+        "Used the project as hands-on practice to strengthen Python skills"
+      ]
+    },
+    {
+      "title": "CMS Desktop App",
+      "description": "A modular desktop CMS built as the foundation for a tenant management system. Designed with core features such as authentication, user management, role-based access control, and system settings, allowing the application to be reused and extended across future personal and business projects.",
+      "year": "2026",
+      "image": "/images/projects/cms-desktop-app.jpg",
+      "images": [
+        "/images/projects/cms-desktop-app.jpg",
+        "/images/projects/cms-desktop-app-01.jpg"
+      ],
+      "tags": ["Personal", "Python"],
+      "role": "Sole Developer",
+      "contributions": [
+        "Architected the core CMS foundation for a planned tenant management system",
+        "Implemented authentication, role-based access control, and system configuration",
+        "Designed the system to be reusable across future personal and business applications",
+        "Used the project as hands-on practice to strengthen Python skills"
+      ]
+    },
+    {
+      "title": "Ajipanda",
+      "year": "2025",
+      "description": "Custom Shopify e-commerce storefront built with tailored Liquid templates, product-focused UX, and backend integrations to support scalable online sales and content management.",
+      "image": "/images/projects/ajipandaclub.jpg",
+      "tags": ["Work", "Transcosmos Asia Philippines", "Laravel", "PHP"],
+      "link": "#",
+      "role": "Backend Developer",
+      "contributions": [
+        "Developed and maintained backend APIs to support e-commerce functionality",
+        "Handled system integrations required for storefront operations"
+      ]
+    },
+    {
+      "title": "The Hub (San Miguel Corporation)",
+      "description": "The SMC Hub is the official online shopping platform of San Miguel Corporation, offering trusted food, beverage, and essential consumer brands.",
+      "year": "2023",
+      "image": "/images/projects/the-hub.jpg",
+      "tags": [
+        "Work",
+        "Synermaxx",
+        "Laravel",
+        "PHP",
+        "JavaScript",
+        "jQuery",
+        "Angular",
+        "Ecommerce"
+      ],
+      "role": "Backend Developer",
+      "contributions": [
+        "Contributed to backend e-commerce API development",
+        "Supported core platform functionality and system integrations"
+      ]
+    },
+    {
+      "title": "BDO Cash Availment",
+      "description": "A digital cash availment platform where customers enter a reference number, receive OTP verification, and select flexible payment plans.",
+      "year": "2023",
+      "image": "/images/projects/bdo-cash-availment.jpg",
+      "tags": ["Work", "Synermaxx", "React", "TypeScript"],
+      "role": "Frontend Developer",
+      "contributions": [
+        "Implemented frontend features using React",
+        "Built user flows for reference validation, OTP verification, and payment option selection"
+      ]
+    },
+    {
+      "title": "PCUP Accreditation System",
+      "description": "A government accreditation processing system handling form submissions, ocular inspections, data validation, and pre-accreditation workflows.",
+      "year": "2022",
+      "image": "/images/projects/pcup.jpg",
+      "tags": [
+        "Work",
+        "Synermaxx",
+        "CodeIgniter",
+        "PHP",
+        "JavaScript",
+        "jQuery"
+      ],
+      "role": "Backend / CMS Developer",
+      "contributions": [
+        "Developed and maintained the Admin Panel / CMS for accreditation processing",
+        "Implemented content management and data management features",
+        "Handled form workflows, validation logic, and administrative tools using CodeIgniter and PHP"
+      ]
+    },
+    {
+      "title": "Ajinomoto Shopify E-commerce",
+      "description": "Enterprise Shopify e-commerce platform for gourmet and culinary products. Built and maintained a Laravel API, admin panel, Line Login integration, and Shopify webhooks for real-time operations.",
+      "year": "2022",
+      "image": "/images/placeholder.jpg",
+      "tags": [
+        "Work",
+        "Transcosmos Asia Philippines",
+        "React",
+        "Laravel",
+        "PHP",
+        "Shopify",
+        "Webhooks"
+      ],
+      "role": "Backend Developer",
+      "contributions": [
+        "Developed Laravel backend APIs and Shopify webhooks",
+        "Supported a pilot e-commerce implementation for a specific business branch",
+        "Handled real-time integrations for orders and app-related workflows"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "period": "Aug 2023 — PRESENT",
+    "title": "Senior Backend Developer @ Transcosmos Asia Philippines",
+    "description": "Primarily responsible for backend development using Laravel and PHP, including API development, admin panels/CMS, and system integrations. Collaborates closely with frontend teams and occasionally handles React-related tasks when needed.",
+    "status": "CURRENT",
+    "tags": ["laravel", "php", "backend", "api", "react"]
+  },
+  {
+    "period": "Nov 2018 — Aug 2023",
+    "title": "Systems Developer @ Synermaxx Corporation",
+    "description": "Worked on multiple enterprise and e-commerce systems focusing on backend development, system maintenance, and feature enhancements. Gained extensive experience in PHP frameworks, JavaScript, and collaborating with cross-functional teams.",
+    "status": "PREVIOUS",
+    "tags": ["php", "laravel", "javascript", "ecommerce", "systems"]
+  },
+  {
+    "period": "2018",
+    "title": "Full Stack Web Developer Student @ Zuitt Coding Bootcamp",
+    "description": "Completed an intensive full-stack web development bootcamp covering frontend and backend fundamentals, RESTful APIs, and database-driven applications.",
+    "status": "EDUCATION",
+    "tags": ["bootcamp", "fullstack", "web-development"]
+  },
+  {
+    "period": "Aug 2017 — Mar 2018",
+    "title": "Customer Service Representative @ Concentrix",
+    "description": "Handled customer inquiries and technical concerns in a fast-paced BPO environment. Developed good communication, problem-solving, and customer-facing skills.",
+    "status": "PREVIOUS",
+    "tags": ["communication", "support", "customer-service"]
+  },
+  {
+    "period": "Jan 2017 — Apr 2017",
+    "title": "IT Trainee @ Fulrubell Corporation",
+    "description": "Trained in basic network, system, and database administration. Assisted in IT support tasks and gained foundational exposure to enterprise IT environments.",
+    "status": "PREVIOUS",
+    "tags": ["it-support", "networking", "systems"]
+  },
+  {
+    "period": "May 2017",
+    "title": "Bachelor’s Degree in Computer Science / Information Technology",
+    "description": "AMA Computer College – East Rizal. Major in Networking with a focus on system administration and foundational software development concepts.",
+    "status": "EDUCATION",
+    "tags": ["computer-science", "networking", "education"]
+  }
+]

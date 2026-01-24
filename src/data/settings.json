@@ -1,0 +1,8 @@
+{
+  "secondaryArchivesDescLimit": 65,
+  "secondaryArchivesInitialCount": 6,
+  "modalMaxHeight": 500,
+  "modalMaxWidth": 600,
+  "modalVerticalOffset": 50,
+  "statusIndicatorColor": "#10FF00"
+}
