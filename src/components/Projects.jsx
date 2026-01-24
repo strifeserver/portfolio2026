@@ -18,7 +18,7 @@ const Projects = ({ projects }) => {
             Total: {projects.length.toString().padStart(2, "0")} Items
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {projects.map((project, index) => (
             <div
               key={index}

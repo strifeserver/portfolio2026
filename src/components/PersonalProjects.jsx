@@ -133,7 +133,7 @@ const PersonalProjects = ({ personalProjects }) => {
                 className="px-8 py-3 bg-deep-obsidian border border-shadow-line text-secondary-text font-bold text-sm rounded hover:border-scourge-purple hover:text-white transition-all uppercase tracking-widest flex items-center gap-2"
               >
                 <span className="material-symbols-outlined text-sm">add</span>
-                Load Ancient Projects
+                Load More
               </button>
             </div>
           )}
