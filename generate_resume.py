@@ -46,7 +46,7 @@ def create_resume():
 
     # Day-to-day tasks (Manual additions as requested)
     work_tasks = {
-        "Senior Backend Developer @ Transcosmos Asia Philippines": [
+        "Backend Developer @ Transcosmos Asia Philippines": [
             "Develop and maintain robust RESTful APIs using Laravel and PHP for large-scale enterprise applications.",
             "Architect modular system components to improve code reusability and maintainability.",
             "Collaborate with frontend teams to integrate React components with backend services.",
