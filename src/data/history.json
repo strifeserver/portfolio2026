@@ -1,13 +1,13 @@
 [
   {
-    "period": "Aug 2023 — PRESENT",
+    "period": "Aug 2022 — PRESENT",
     "title": "Backend Developer @ Transcosmos Asia Philippines",
     "description": "Primarily responsible for backend development using Laravel and PHP, including API development, admin panels/CMS, and system integrations. Collaborates closely with frontend teams and occasionally handles React-related tasks when needed.",
     "status": "CURRENT",
     "tags": ["laravel", "php", "backend", "api", "react"]
   },
   {
-    "period": "Nov 2018 — Aug 2023",
+    "period": "Nov 2018 — Aug 2022",
     "title": "Systems Developer @ Synermaxx Corporation",
     "description": "Worked on multiple enterprise and e-commerce systems focusing on backend development, system maintenance, and feature enhancements. Gained extensive experience in PHP frameworks, JavaScript, and collaborating with cross-functional teams.",
     "status": "PREVIOUS",

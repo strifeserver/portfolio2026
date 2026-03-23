@@ -16,7 +16,13 @@ import Footer from "./components/Footer";
 
 function App() {
   const { profile, hero } = profileData;
-  const { featured: projects, personal: personalProjects } = projectsData;
+  const { projects: allProjects } = projectsData;
+  const featuredProjects = allProjects
+    .filter((p) => p.is_featured)
+    .sort((a, b) => a.is_featured_order - b.is_featured_order);
+  const otherProjects = allProjects
+    .filter((p) => !p.is_featured)
+    .sort((a, b) => a.data_order - b.data_order);
 
   return (
     <div className="flex flex-col md:flex-row h-screen w-full bg-void-black text-white selection:bg-scourge-purple/30 overflow-hidden">
@@ -27,8 +33,8 @@ function App() {
 
         <div className="max-w-5xl mx-auto px-4 md:px-8 py-12 space-y-24 pb-24 md:pb-12">
           <Hero hero={hero} />
-          <Projects projects={projects} />
-          <PersonalProjects personalProjects={personalProjects} />
+          <Projects projects={featuredProjects} />
+          <PersonalProjects personalProjects={otherProjects} />
           <Stack stack={stackData} />
           <History history={historyData} />
           <Contact />
