@@ -1,6 +1,33 @@
 {
   "projects": [
     {
+      "title": "StrFigs",
+      "description": "Public Catalog Site and a Admin Panel Order, Product, Management System with Sales Monitoring for Dropshipping 3d printed, Original Accessories and Figures",
+      "year": "2026",
+      "image": "/images/projects/strfigs.png",
+      "tags": [
+        "Personal",
+        "React",
+        "Vite",
+        "Zustand",
+        "Node.js",
+        "Express",
+        "Supabase",
+        "AWS S3",
+        "Vercel"
+      ],
+      "link": "https://www.strfigs.store/",
+      "role": "Full Stack Developer",
+      "is_featured": true,
+      "is_featured_order": 1,
+      "data_order": 0,
+      "contributions": [
+        "Developed full-stack e-commerce application with modern React ecosystem and Vercel hosting",
+        "Implemented secure authentication and database structure with Supabase",
+        "Integrated AWS S3 for object storage and file uploads"
+      ]
+    },
+    {
       "title": "Shopify Token Generator",
       "description": "A personal utility tool created to streamline Shopify app setup after platform changes removed easy access to access tokens.",
       "year": "2026",
