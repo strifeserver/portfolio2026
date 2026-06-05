@@ -18,6 +18,12 @@
     "is_hidden": false
   },
   {
+    "name": "Exploring",
+    "href": "#curiosity",
+    "icon": "travel_explore",
+    "is_hidden": false
+  },
+  {
     "name": "History",
     "href": "#past",
     "icon": "history",

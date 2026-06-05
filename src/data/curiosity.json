@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Homelab / Self-Hosted Server",
+    "status": "PLANNING",
+    "icon": "dns",
+    "description": "Working on setting up a personal homelab server. Planning to self-host services, experiment with containerization (Docker/Portainer), and use it as a dedicated environment for learning infrastructure and networking hands-on.",
+    "tags": ["homelab", "self-hosting", "docker", "networking", "linux"],
+    "note": "Still in the research and hardware selection phase."
+  },
+  {
+    "title": "Local AI Setup",
+    "status": "STUDYING",
+    "icon": "model_training",
+    "description": "Exploring the world of running large language models locally. Studying hardware requirements — GPU VRAM, compute needs, and model quantization — to find the right setup for running LLMs like LLaMA or Mistral on my own machine without relying on cloud APIs.",
+    "tags": ["AI", "LLM", "local-ai", "hardware", "ollama"],
+    "note": "Currently evaluating GPU options and benchmarking quantized models."
+  }
+]
