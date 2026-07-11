@@ -1,9 +1,10 @@
 [
   {
-    "period": "Aug 2022 — PRESENT",
+    "period": "Aug 2022 — Jul 2026",
     "title": "Senior Backend Developer @ Transcosmos Asia Philippines",
-    "description": "Primarily responsible for backend development using Laravel and PHP, including API development, admin panels/CMS, and system integrations. Collaborates closely with frontend teams and occasionally handles React-related tasks when needed.",
-    "status": "CURRENT",
+    "description": "Primarily responsible for backend development using Laravel and PHP, including API development, admin panels/CMS, and system integrations. Collaborated closely with frontend teams and occasionally handled React-related tasks when needed.",
+    "status": "PREVIOUS",
+    "badge": "Redundancy",
     "tags": [
       "laravel",
       "php",

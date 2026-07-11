@@ -24,6 +24,12 @@
     "is_hidden": false
   },
   {
+    "name": "Dev Rig",
+    "href": "#dev-rig",
+    "icon": "computer",
+    "is_hidden": false
+  },
+  {
     "name": "History",
     "href": "#past",
     "icon": "history",

@@ -1,0 +1,53 @@
+{
+  "headline": "Dev Rig",
+  "subheadline": "My personal development workstation — available for remote work, deployment pipelines, and as a capable local environment for any team that needs it.",
+  "specs": [
+    {
+      "category": "Processor",
+      "icon": "memory",
+      "value": "AMD Ryzen 7 5700X",
+      "detail": "8-core / 16-thread @ 3.4GHz boost 4.6GHz"
+    },
+    {
+      "category": "Motherboard",
+      "icon": "developer_board",
+      "value": "ASUS ROG Strix B550-F Gaming WiFi II",
+      "detail": "PCIe 4.0 · WiFi 6 · 2.5Gb LAN"
+    },
+    {
+      "category": "GPU",
+      "icon": "tv",
+      "value": "ASUS TUF RX 6800 XT OC 16GB",
+      "detail": "16GB GDDR6 · 2310MHz boost"
+    },
+    {
+      "category": "RAM",
+      "icon": "storage",
+      "value": "Kingston Fury Beast RGB 32GB DDR4",
+      "detail": "2×16GB · 3600MHz · CL18"
+    },
+    {
+      "category": "Power Supply",
+      "icon": "bolt",
+      "value": "Corsair HX850 850W",
+      "detail": "80 PLUS Platinum · Fully Modular"
+    }
+  ],
+  "monitors": [
+    {
+      "label": "Primary",
+      "value": "ASUS VG27AQ 27\"",
+      "detail": "1440p · 165Hz · IPS · G-Sync Compatible"
+    },
+    {
+      "label": "Secondary",
+      "value": "Samsung S24R35X 24\"",
+      "detail": "1080p · 60Hz · IPS"
+    },
+    {
+      "label": "Tertiary",
+      "value": "Samsung S24R35X 24\"",
+      "detail": "1080p · 60Hz · IPS"
+    }
+  ]
+}

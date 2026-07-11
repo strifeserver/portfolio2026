@@ -40,6 +40,11 @@ const History = ({ history }) => {
                   >
                     {item.status}
                   </span>
+                  {item.badge && (
+                    <span className="px-2 py-0.5 rounded bg-red-950/60 border border-red-700/40 text-[10px] font-mono text-red-400">
+                      {item.badge}
+                    </span>
+                  )}
                 </div>
               </div>
               <h3 className="text-2xl font-bold text-white group-hover:text-scourge-purple transition-colors">

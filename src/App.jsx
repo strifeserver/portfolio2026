@@ -4,6 +4,7 @@ import projectsData from "./data/projects.json";
 import stackData from "./data/stack.json";
 import historyData from "./data/history.json";
 import curiosityData from "./data/curiosity.json";
+import workstationData from "./data/workstation.json";
 
 import Sidebar from "./components/Sidebar";
 import Header from "./components/Header";
@@ -13,6 +14,7 @@ import PersonalProjects from "./components/PersonalProjects";
 import Stack from "./components/Stack";
 import Curiosity from "./components/Curiosity";
 import History from "./components/History";
+import Workstation from "./components/Workstation";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
@@ -39,6 +41,7 @@ function App() {
           <PersonalProjects personalProjects={otherProjects} />
           <Stack stack={stackData} />
           <Curiosity curiosity={curiosityData} />
+          <Workstation workstation={workstationData} />
           <History history={historyData} />
           <Contact />
           <Footer profile={profile} />

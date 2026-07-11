@@ -19,8 +19,12 @@ pnpm-debug.log*
 # OS / Editor files
 .DS_Store
 Thumbs.db
+desktop.ini
 .vscode/
 .idea/
+
+# Personal / scratch files
+src/data/resume info.txt
 
 # Cache
 .eslintcache
